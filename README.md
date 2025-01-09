@@ -33,5 +33,5 @@ Watch the application in action:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/route-optimizer.git
-   cd route-optimizer
+   git clone https://github.com/yatharthchopra2424/Fedex-Project.git
+   cd Fedex Project 
