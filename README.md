@@ -1,8 +1,7 @@
 # Route Optimization Flask Application
 
 ## Demo Video
-<video src="[https://user-images.githubusercontent.com/xxxx/demo.mp4](https://github.com/yatharthchopra2424/Fedex-Project/blob/main/Screen%20Recording%202025-01-09%20193057.mp4)" controls="controls" style="max-width: 100%;"></video>
-
+[Project Demo](video/sample.mp4) 
 
 ## 🌟 Overview
 The **Route Optimization Flask Application** is a backend service designed to provide eco-friendly route suggestions by leveraging real-time data. The application integrates with multiple APIs to optimize routes based on distance, weather, air quality, and vehicle emissions.
@@ -23,7 +22,7 @@ Watch the application in action:
 
 ![Project Demo](video/preview.png)
 
-[Click here to view the demo](video/demo.mp4) 
+[Click here to view the demo](video/sample.mp4) 
 
 ---
 
