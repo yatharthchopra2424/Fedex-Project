@@ -28,6 +28,7 @@ Watch the application in action:
 [Click here to view the demo](video/sample.mp4) 
 
 ---
+** Run app.py file first then direct to website folder and then npm run dev
 
 ## 🛠️ Installation
 
