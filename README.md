@@ -46,5 +46,8 @@ Watch the application in action:
 
 1. *Clone the Repository*
    ```bash
-   https://github.com/kaz004/DYNAMIC-ROUTE-OPTIMIZOR.git
-   cd DYNAMIC-ROUTE-OPTIMIZOR
+   git clone https://github.com/yatharthchopra2424/Route_Optimizer.git
+   cd Route_optimizer
+   cd mm
+   npm install
+   npm run dev
